@@ -12,8 +12,4 @@ This project uses NLP and ML to detect hate speech in tweets.
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python train_model.py
 streamlit run app.py
-
-## 🚀 You can Access
-

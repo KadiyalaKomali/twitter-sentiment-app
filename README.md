@@ -16,4 +16,4 @@ python train_model.py
 streamlit run app.py
 
 ## 🚀 Streamlit app : you can acess
-https://bitcoinpriceprediction.streamlit.app/
+[https://twittersentimentanalysing.streamlit.app/]
